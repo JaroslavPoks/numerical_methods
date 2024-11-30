@@ -4,7 +4,7 @@ task1 - the Lagrange polynomial.
 
 task2 - local Lagrangian interpolation.
 
-task3 - the polynomial of the best uniform approximation.
+task3 - the polynomial of the best uniform approximation. The Eigen library is required.
 
 task4 - numerical differentiation.
 
